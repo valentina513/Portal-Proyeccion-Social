@@ -1,2 +1,2 @@
-# Portal-de-Proyecci-n-Social
+# Portal-Proyeccion-Social
 Proyecto de investigación de practicas
